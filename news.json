@@ -3,28 +3,28 @@
     "id:" 1,
     "title" : "Marta, Alexia, Hermoso...",
     "description" : "Ruptura de ligamento é, sozinha, responsável por quatro baixas importantes: Marta na Copa América, Catarina Macario no Campeonato da Concacaf, Alexia e Maroszán na Eurocopa.",
-    "image":"https://andersons1lva.github.io/soccer-news-api/images/1.jpg",
+    "image":"https://andersons1lva.github.io/-soccer-news-api/images/1.jpg",
     "link":"https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml"
   },
   {  
     "id:" 2,
     "title" : "Resistência feminina",
     "description" : "Rubro-negras empataram com VF4, da Paraíba, por 2 a 2 neste sábado e conseguiram a classificação pelo placar agregado, após uma vitória por 2 a 0 no duelo de ida.",
-    "image" : "https://andersons1lva.github.io/soccer-news-api/images/2.jpg",
+    "image" : "https://andersons1lva.github.io/-soccer-news-api/images/2.jpg",
     "link" : "https://ge.globo.com/pe/futebol/times/sport/noticia/2022/07/23/sport-conquista-acesso-para-serie-a2-do-brasileiro-feminino.ghtml"
   },
   { 
     "id:" 3,
     "title" : "Me Chamaram de macaca",
     "description" : "Natasha do Nascimento conta que ouviu gritos vindo da arquibancada, onde estava torcida do Sport para confronto pelas oitavas de final da Série A3 do Brasileiro Feminino.",
-    "image" : "https://andersons1lva.github.io/soccer-news-api/images/3.jpg",
+    "image" : "https://andersons1lva.github.io/-soccer-news-api/images/3.jpg",
     "link" : "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/07/04/jogadora-relata-racismo-em-jogo-contra-sport-e-arbitra-registra-na-sumula-me-chamaram-de-macaca.ghtml"
   },
   { 
     "id:" 4,
     "title" : "Tamires responde a Liana Salazar sobre encontro na final: 'Colômbia também nos aguarde'",
     "description" : "Jogadoras atuam juntas no Corinthians e serão rivais no jogo de sábado entre Brasil e Colômbia pela decisão da Copa América. Partida terá transmissão ao vivo do SporTV, às 21h (de Brasília).",
-    "image" : "https://andersons1lva.github.io/soccer-news-api/images/4.jpg",
+    "image" : "https://andersons1lva.github.io/-soccer-news-api/images/4.jpg",
     "link" : "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/27/tamires-responde-a-liana-salazar-sobre-encontro-na-final-colombia-tambem-nos-aguarde.ghtml"
   }
 ]
